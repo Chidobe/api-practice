@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    gap: 50px;
+}
+
+section {
+    background-color: whitesmoke;
+    text-align: center;
+    color: black;
+    font-weight: 500;
+    width: 400px;
+    height: 500px;
+    padding: 20px;
+    border-radius: 10px;
+    broder: none;
+    box-shadow: 0px 0px 10px 5px rgba(249, 246, 246, 0.35);
+}
+
+button {
+    background-color: whitesmoke;
+    color: black;
+    width: 200px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+p {
+    margin: 20px 0px 20px;
+}
+
+img {
+    width: 35opx;
+    height: auto;
+}
